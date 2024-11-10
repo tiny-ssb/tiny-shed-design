@@ -8,6 +8,10 @@ To Add/ Update a flow, please open a Pull-request
 
 ## User Types
 
+### Owner
+
+This is the person in charge of the conference. They promote curators/admins
+
 ### Admin
 
 These are the conference organisers.
